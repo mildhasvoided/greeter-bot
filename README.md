@@ -4,3 +4,4 @@
 
 Tos: <a href="https://github.com/mildhasvoided/greeter-bot/blob/main/TOS.txt">here</a>
 
+Sadly the source code will not be stored here as to keep the token a secret :(
